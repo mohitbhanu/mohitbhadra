@@ -4,7 +4,7 @@
 body {
     color: #797979;
     background: #ffffff;
-    font-family: 'font/Ubuntu-Regular.ttf', cursive;
+    font-family: 'font/Roboto/Roboto-Regular.ttf';
 }
 
 h1,
@@ -130,9 +130,8 @@ a:focus {
 }
 
 
-/**********************************/
-/*********** Nav Bar CSS **********/
-/**********************************/
+/********* NavBar CSS **********/
+
 .navbar {
     position: relative;
     transition: .5s;
@@ -239,9 +238,8 @@ a:focus {
 }
 
 
-/*******************************/
+
 /********** Home CSS ***********/
-/*******************************/
 .home {
     position: relative;
     width: 100%;
@@ -534,7 +532,7 @@ a:focus {
     width: 0px;
     background: #F1724A;
     border-radius: 13px;
-    transition: 3s;
+    transition: 2.5s;
 }
 
 .about .about-text a.btn {
